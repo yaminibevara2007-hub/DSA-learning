@@ -17,4 +17,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
