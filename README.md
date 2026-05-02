@@ -19,6 +19,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
 | [1729-find-followers-count](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1729-find-followers-count/) | Easy |
