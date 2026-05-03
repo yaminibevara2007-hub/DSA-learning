@@ -10,8 +10,9 @@ class Solution {
             if(left_sum==right_sum){
                 return i;
             }
-            
+            else{
                 left_sum+=nums[i];
+            }
         }
         return -1;
     }
