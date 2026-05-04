@@ -14,6 +14,6 @@ class Solution {
         minSum = Math.min( minSum , minEnd );
 
       }
-      return Math.max( maxSum , Math.abs(minSum));
+      return Math.max( Math.abs(maxSum) , Math.abs(minSum));
     }
 }
