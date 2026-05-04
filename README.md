@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
