@@ -34,6 +34,7 @@
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
 | [1729-find-followers-count](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1729-find-followers-count/) | Easy |
 | [1934-confirmation-rate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
