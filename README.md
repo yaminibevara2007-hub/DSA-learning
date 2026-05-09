@@ -28,6 +28,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
