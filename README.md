@@ -33,6 +33,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1729-find-followers-count/) | Easy |
 | [1934-confirmation-rate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
