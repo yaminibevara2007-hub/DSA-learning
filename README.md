@@ -42,6 +42,7 @@
 | [1527-patients-with-a-condition](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1729-find-followers-count/) | Easy |
+| [1907-count-salary-categories](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
