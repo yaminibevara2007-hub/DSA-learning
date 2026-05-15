@@ -1,29 +1,32 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res = new ArrayList<>();
-        if( s.length() < p.length()) return res;
-        Map<Character,Integer> map =new HashMap<>();
-        for(char c : p.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+        List<Integer> ans= new ArrayList<>();
+        if(p.length()>s.length()){
+            return ans;
         }
-        int left=0,count=p.length();
+        int [] freq =new int[26];
+        for(int i=0;i<p.length();i++){
+            freq[p.charAt(i)-'a']++;
+        }
+        int left =0;
+        int count=p.length();
         for(int right=0;right<s.length();right++){
-            char ch = s.charAt(right);
-            int Val =map.getOrDefault(ch,0);
-            if(Val >0) count--;
-            map.put(ch,Val-1);
-            if(right-left+1 > p.length()){
-                char leftChar=s.charAt(left);
-                int leftVal = map.getOrDefault(leftChar,0);
-                if(leftVal >= 0) count++;
-                map.put(leftChar,leftVal+1);
-                left++;
+            if(freq[s.charAt(right)-'a']>0){
+                count--;
             }
-            if(count==0){
-                res.add(left);
-            }
+            freq[s.charAt(right)-'a']--;
+        
+        if(right-left+1 >p.length()){
+           if(freq[s.charAt(left)-'a']>=0){
+            count++;
+           }
+           freq[s.charAt(left)-'a']++;
+           left++;
         }
-        return res;
-
+             if(count==0){
+                ans.add(left);
+             }
+        }
+             return ans;
     }
 }
