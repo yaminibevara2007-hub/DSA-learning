@@ -50,6 +50,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -106,4 +107,8 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
