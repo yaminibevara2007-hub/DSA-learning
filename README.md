@@ -43,6 +43,7 @@
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1484-group-sold-products-by-the-date/) | Easy |
