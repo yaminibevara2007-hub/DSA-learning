@@ -6,4 +6,4 @@ select
             then id + 1
         else id - 1
     END as id,
-    student from Seat order by id;
+ student from Seat order by id;
