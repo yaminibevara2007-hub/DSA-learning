@@ -41,6 +41,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0626-exchange-seats/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
