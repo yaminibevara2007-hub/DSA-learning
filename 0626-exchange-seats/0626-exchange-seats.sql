@@ -1,11 +1,9 @@
 select
     case
         when id % 2 = 1 and id = (select count(*) from  Seat)
-            THEN id
-        WHEN id % 2 = 1
-            THEN id + 1
-        ELSE id - 1
-    END AS id,
-    student
-FROM Seat
-ORDER BY id;
+            then id
+        when id % 2 = 1
+            then id + 1
+        else id - 1
+    END as id,
+    student from Seat order by id;
