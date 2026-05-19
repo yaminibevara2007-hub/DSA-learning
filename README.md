@@ -44,6 +44,7 @@
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0626-exchange-seats/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1280-students-and-examinations/) | Easy |
