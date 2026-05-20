@@ -40,6 +40,7 @@
 | [0176-second-highest-salary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
