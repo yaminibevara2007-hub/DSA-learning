@@ -19,6 +19,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0875-koko-eating-bananas](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
