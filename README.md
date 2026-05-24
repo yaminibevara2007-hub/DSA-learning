@@ -45,6 +45,7 @@
 | [0196-delete-duplicate-emails](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0626-exchange-seats/) | Medium |
