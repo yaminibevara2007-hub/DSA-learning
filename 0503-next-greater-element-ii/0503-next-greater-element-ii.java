@@ -5,7 +5,8 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
         Arrays.fill(ans,-1);
         for(int i= 2* n-1;i>=0;i--){
-            while(!stack.isEmpty()&&stack.peek()<=nums[i%n]){
+            int num = nums[i%n];
+            while(!stack.isEmpty()&&stack.peek()<=num){
                 stack.pop();
             }
             if(i<n){
@@ -13,7 +14,7 @@ class Solution {
                 ans[i] = stack.peek();
                 }
             }
-            stack.push(nums[i%n]);
+            stack.push(num);
         }
         return ans;
     }
