@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -165,11 +167,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
@@ -178,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0739-daily-temperatures/) | Medium |
