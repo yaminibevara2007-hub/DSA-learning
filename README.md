@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -110,6 +111,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
