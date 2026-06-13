@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -150,6 +151,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -229,4 +231,8 @@
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
