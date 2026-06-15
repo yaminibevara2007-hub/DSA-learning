@@ -14,9 +14,7 @@ class Solution {
                     if (digits[k] % 2 != 0) {
                         continue;
                     }
-                    int num = digits[i] * 100 
-                            + digits[j] * 10 
-                            + digits[k];
+                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
                     set.add(num);
                 }
             }
