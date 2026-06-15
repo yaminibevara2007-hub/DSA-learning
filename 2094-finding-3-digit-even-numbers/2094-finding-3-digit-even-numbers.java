@@ -1,11 +1,10 @@
-
 class Solution {
-    int indx=0;
+    int index=0;
     int[]freq=new int[10];
     int []res=new int[450];
     public void rec(int num,int pos){
         if(pos==3){
-            res[indx++]=num;
+            res[index++]=num;
             return;
         }
         for(int i=0;i<10;i++){
@@ -24,6 +23,6 @@ class Solution {
             freq[i]++;
         }
         rec(0,0);
-        return Arrays.copyOf(res,indx);
+        return Arrays.copyOf(res,index);
     }
 }
