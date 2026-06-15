@@ -34,6 +34,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +236,7 @@
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
