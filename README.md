@@ -132,6 +132,7 @@
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Divide and Conquer
@@ -186,6 +187,7 @@
 | [0227-basic-calculator-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -253,4 +256,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
