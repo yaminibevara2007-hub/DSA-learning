@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0344-reverse-string/) | Easy |
