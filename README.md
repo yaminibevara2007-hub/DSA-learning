@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
@@ -252,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
