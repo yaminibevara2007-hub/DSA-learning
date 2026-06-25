@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -253,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
