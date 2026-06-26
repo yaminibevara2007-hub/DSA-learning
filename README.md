@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -159,6 +160,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -204,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Stack
@@ -256,6 +259,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -270,4 +274,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
