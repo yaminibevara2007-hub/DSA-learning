@@ -187,6 +187,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0069-sqrtx/) | Easy |
@@ -248,6 +249,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
@@ -280,4 +282,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
