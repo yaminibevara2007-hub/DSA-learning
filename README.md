@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
@@ -209,6 +210,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
@@ -241,6 +243,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
