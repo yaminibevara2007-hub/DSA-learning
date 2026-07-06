@@ -256,6 +256,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
@@ -291,4 +292,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0002-add-two-numbers/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
