@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -98,6 +99,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0069-sqrtx/) | Easy |
@@ -147,6 +149,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
