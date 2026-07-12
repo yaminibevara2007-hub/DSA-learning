@@ -303,4 +303,5 @@
 | [0061-rotate-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0061-rotate-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
