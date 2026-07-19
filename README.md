@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0051-n-queens](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
@@ -188,6 +189,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
