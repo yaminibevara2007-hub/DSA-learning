@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
@@ -280,11 +281,13 @@
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Enumeration
