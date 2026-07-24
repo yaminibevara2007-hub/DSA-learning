@@ -65,6 +65,7 @@
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +327,7 @@
 | [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
