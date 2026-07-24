@@ -58,6 +58,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
@@ -194,6 +195,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
@@ -316,6 +318,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
