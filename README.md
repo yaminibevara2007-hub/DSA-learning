@@ -164,6 +164,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -301,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0260-single-number-iii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
