@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
@@ -57,6 +58,7 @@
 | [0016-3sum-closest](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
@@ -156,6 +158,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -249,6 +252,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -266,6 +270,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
