@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -211,6 +212,7 @@
 | [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
@@ -240,6 +242,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0016-3sum-closest/) | Medium |
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
+| [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
