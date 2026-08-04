@@ -85,6 +85,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0185-department-top-three-salaries/) | Hard |
