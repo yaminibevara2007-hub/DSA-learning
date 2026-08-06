@@ -29,6 +29,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -145,6 +146,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -219,6 +221,7 @@
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
