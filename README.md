@@ -22,6 +22,7 @@
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -64,6 +65,7 @@
 | [0042-trapping-rain-water](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -251,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0016-3sum-closest/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
