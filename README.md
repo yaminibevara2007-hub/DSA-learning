@@ -71,6 +71,7 @@
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0344-reverse-string/) | Easy |
@@ -224,6 +225,7 @@
 | [0041-first-missing-positive](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -369,6 +371,7 @@
 | [0141-linked-list-cycle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
