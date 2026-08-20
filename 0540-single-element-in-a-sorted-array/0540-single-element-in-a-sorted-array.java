@@ -4,8 +4,6 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             xor ^= nums[i];
         }
-        int ans = xor;
-
-        return ans;
+        return xor;
     }
 }
