@@ -36,6 +36,7 @@
 | [0229-majority-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0260-single-number-iii/) | Medium |
+| [0274-h-index](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0274-h-index/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -271,6 +272,7 @@
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0229-majority-element-ii/) | Medium |
+| [0274-h-index](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
@@ -402,4 +404,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0229-majority-element-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
