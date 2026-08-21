@@ -365,6 +365,7 @@
 | [0338-counting-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Enumeration
