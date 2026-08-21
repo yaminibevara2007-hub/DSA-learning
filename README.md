@@ -37,6 +37,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0274-h-index/) | Medium |
+| [0275-h-index-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -143,6 +144,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
