@@ -62,6 +62,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -251,6 +252,7 @@
 | [0904-fruit-into-baskets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -332,6 +334,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -371,6 +374,7 @@
 | [0461-hamming-distance](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
