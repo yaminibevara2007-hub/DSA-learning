@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
