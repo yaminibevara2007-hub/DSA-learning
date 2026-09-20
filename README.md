@@ -85,6 +85,7 @@
 | [0148-sort-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -312,6 +313,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -354,6 +356,7 @@
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
@@ -410,6 +413,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
