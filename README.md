@@ -45,6 +45,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0414-third-maximum-number/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -255,6 +256,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
@@ -385,6 +387,7 @@
 | [0338-counting-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -444,4 +447,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
