@@ -233,6 +233,7 @@
 | [0344-reverse-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
+| [0412-fizz-buzz](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -280,6 +281,7 @@
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -341,6 +343,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
