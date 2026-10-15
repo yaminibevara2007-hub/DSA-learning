@@ -68,6 +68,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -265,6 +266,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -464,4 +466,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
