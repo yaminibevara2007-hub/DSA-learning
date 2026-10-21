@@ -476,4 +476,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
