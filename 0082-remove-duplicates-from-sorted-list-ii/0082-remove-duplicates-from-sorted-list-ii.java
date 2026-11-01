@@ -10,36 +10,40 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-         while (head != null && head.next != null && head.val == head.next.val) {
-            int val = head.val;
-            while (head != null && head.val == val) {
-                head = head.next;
+        TreeMap<Integer,Integer> tm = new TreeMap<>();
+
+        ListNode temp = head;
+
+        while(temp != null){
+            int num = temp.val;
+            tm.put(num,tm.getOrDefault(num , 0) + 1);
+            temp = temp.next;
+        }
+
+        ArrayList<Integer> arr = new ArrayList<>();
+       
+        for(int num:tm.keySet()){
+
+                    int count = tm.get(num);
+            if(count < 2){
+                arr.add(num);
             }
         }
 
-        if (head == null) {
-            return null;
+        ListNode dummy = new ListNode(-1);
+
+        ListNode prev = dummy;
+
+        int len = arr.size();
+        int i =0;
+        while(len > 0){
+            ListNode l = new ListNode(arr.get(i));
+            prev.next = l;
+            prev = prev.next;
+            i++;
+            len--;
         }
 
-        ListNode prev = head;
-        ListNode curr = head.next;
-
-        while (curr != null) {
-
-            if (curr.next != null && curr.val == curr.next.val) {
-                int val = curr.val;
-
-                while (curr != null && curr.val == val) {
-                    curr = curr.next;
-                }
-
-                prev.next = curr;
-            } else {
-                prev = curr;
-                curr = curr.next;
-            }
-        }
-
-        return head;
+        return dummy.next;
     }
 }
