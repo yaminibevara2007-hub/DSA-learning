@@ -287,6 +287,7 @@
 | [0326-power-of-three](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -329,6 +330,7 @@
 | [0227-basic-calculator-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0394-decode-string/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
@@ -432,6 +434,7 @@
 | [0206-reverse-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Merge Sort
