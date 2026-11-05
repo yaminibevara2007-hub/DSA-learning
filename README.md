@@ -230,6 +230,7 @@
 | [0020-valid-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0224-basic-calculator/) | Hard |
@@ -278,6 +279,7 @@
 | [0009-palindrome-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
@@ -352,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
@@ -391,6 +394,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0231-power-of-two/) | Easy |
