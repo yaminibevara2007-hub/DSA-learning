@@ -32,6 +32,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -200,6 +201,7 @@
 | [0085-maximal-rectangle](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0085-maximal-rectangle/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0213-house-robber-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0213-house-robber-ii/) | Medium |
 | [0338-counting-bits](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
