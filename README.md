@@ -247,6 +247,7 @@
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1544-make-the-string-great/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
