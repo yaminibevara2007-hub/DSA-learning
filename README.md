@@ -297,6 +297,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3360-stone-removal-game/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +363,7 @@
 | [0735-asteroid-collision](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3360-stone-removal-game](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3360-stone-removal-game/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
