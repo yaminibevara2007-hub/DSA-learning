@@ -72,6 +72,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3866-first-unique-even-element/) | Easy |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@
 | [0509-fibonacci-number](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yaminibevara2007-hub/DSA-learning/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
